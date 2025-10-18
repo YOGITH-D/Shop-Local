@@ -2,11 +2,11 @@
 
 Project Description
 
-Shop-Local is a prototype for a hyper-local digital marketplace designed specifically for small, contained communities, such as apartment complexes, residential layouts, or university dormitories.
+Shop-Local is a simple, basic prototype for a hyper-local digital marketplace designed specifically for small, contained communities, such as apartment complexes, residential layouts, or university dormitories.
 
-The core idea is to enable residents to easily and securely buy, sell, or exchange items and products with their immediate neighbors. This platform aims to foster community engagement, promote sustainability by encouraging reuse, and eliminate the hassle of dealing with distant buyers/sellers.
+The core idea is to establish the fundamental framework necessary to enable residents to easily and securely buy, sell, or exchange items and products with their immediate neighbors. This platform aims to foster community engagement, promote sustainability by encouraging reuse, and eliminate the hassle of dealing with distant buyers/sellers.
 
-This repository represents the Minimum Viable Product (MVP), providing the fundamental framework for user authentication and basic product listing management.
+This repository represents the Minimum Viable Product (MVP), providing only the essential framework for user authentication, basic password security, and the initial listing of products—a proof-of-concept only.
 
 ✨ MVP Features
 
